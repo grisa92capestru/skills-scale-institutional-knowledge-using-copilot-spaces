@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related Documents
+- [Roles and Personas](octoacme-roles-and-personas.md) — for role-specific responsibilities during execution
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md) — for ownership and handoff checkpoints across Planning → Execution → QA

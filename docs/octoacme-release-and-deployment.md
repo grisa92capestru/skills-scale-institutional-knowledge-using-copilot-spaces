@@ -36,3 +36,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Documents
+- [Roles and Personas](octoacme-roles-and-personas.md) — for Release Manager and cross-role release responsibilities
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md) — for QA → Release and Release → Post-Release handoff checkpoints
